@@ -7,7 +7,7 @@ from PIL import Image
 # Config
 # ======================
 IMG_SIZE = 224
-MODEL_PATH = "models/plant_disease_model_resnet50.keras"
+MODEL_PATH = "models/plant_disease_modell_resnet50.keras"
 
 # ======================
 # Charger le modèle
